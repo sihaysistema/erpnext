@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/frappe/erpnext/develop/erpnext/public/images/erpnext-logo.png" height="128">
     <h2>ERPNext</h2>
     <p align="center">
-        <p>ERP made simple</p>
+        <p>ERP made simple for everybody</p>
     </p>
 
 [![Build Status](https://api.travis-ci.com/frappe/erpnext.svg?branch=develop)](https://travis-ci.com/frappe/erpnext)
